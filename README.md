@@ -15,16 +15,6 @@ all the images into their respectively groups.
 * [Ngrok](https://ngrok.com/)
 
 If you dont have Python installed in your PC ,it can be installed from here [python](https://www.python.org/downloads/).
-
-Hit the command in CMD/Terminal if you don't have it already installed:
-
-    pip install opencv-python
-
-   (OR)
-   
- Install OpenCV via anaconda
-  
-    conda install -c menpo opencv
     
  ## How to Run
  * Run all the cells in the classification notebook and make sure to store the model in your google drive preferably.
